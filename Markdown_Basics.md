@@ -29,5 +29,42 @@ asterics is preferred by the type of mark down used on GitHub
 This **works**, and this __works__ too.  
 prefer the asterics to avoid misundertunding with the python syntax
 
+### Blockquotes
+
+> Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
+>
+> Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions. - John Gruber
+
+### Horizonatal Rule
+
+___
+
+---
+
+***
+
+## Lists
+
+### Numbered Lists
+
+1. Item 1
+2. Item 2
 
 
+1. Item 1
+    1. Sub-item 1
+    2. Sub-item 2
+
+### Bulled Lists
+
+* Item
+* Item
+
+
+* Item
+    * Item
+    * Item
+        * Item
+
+
+---
