@@ -107,3 +107,17 @@ let exampleFunction = () => {
 [4]: https://www.facebook.com/conte.pas "My Facebook Page"
 
 ---
+
+### Tools
+
+* [babelmark 2](https://johnmacfarlane.net/babelmark2/)
+
+### More info
+
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+### CoolStaff
+
+* [CommonMark](https://commonmark.org/)
+
+---
