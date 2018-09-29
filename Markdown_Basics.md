@@ -33,7 +33,9 @@ prefer the asterics to avoid misundertunding with the python syntax
 
 > Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
 >
-> Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions. - John Gruber
+> Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions. - [John Gruber][2]
+
+[2]: https://daringfireball.net/projects/markdown "Creator of Markdown"
 
 ### Horizonatal Rule
 
@@ -66,5 +68,42 @@ ___
     * Item
         * Item
 
+
+---
+
+## Code
+
+To install the latest version of NPM, you can type, `npm install npm@latest -g`
+
+```javascript
+let exampleFunction = () => {
+    let foo = 'foo';
+    let bar = 'bar';
+
+    return foo + bar;
+}
+```
+
+---
+
+## Links
+
+[Treehouse](https://teamtreehouse.com/pasqualeconte "Link to my Treehouse profile")
+
+[Linkedin][1]
+
+[1]: https://www.linkedin.com/in/pasqualeconte "Link to my Linkedin profile"
+
+---
+
+## Images
+
+![MeAndMela](https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/42663275_106090660366242_7048606546137186304_n.jpg?_nc_cat=110&oh=f4abbd7ea12fbd2df6c1e30223cb8d69&oe=5C59827D "<3")
+
+[![MyFacebookPage][3]][4]
+
+[3]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/2000px-Facebook_New_Logo_%282015%29.svg.png
+
+[4]: https://www.facebook.com/conte.pas "My Facebook Page"
 
 ---
